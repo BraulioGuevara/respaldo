@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/op_apps"
+        android:title="@string/op_apps"
+        android:icon="@drawable/ico_apps"/>
+
+    <item
+        android:id="@+id/op_notas"
+        android:title="@string/op_notas"
+        android:icon="@drawable/ico_notas"/>
+
+    <item
+        android:id="@+id/op_calendario"
+        android:title="@string/op_calendario"
+        android:icon="@drawable/ico_calendario"/>
+
+</menu>

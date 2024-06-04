@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561864455399",
+    "project_id": "timeflex-31d83",
+    "storage_bucket": "timeflex-31d83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561864455399:android:731c06311732b6ba689e42",
+        "android_client_info": {
+          "package_name": "com.example.timeflex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYhhWTwFoB56xtih5WAKr8y5cjjZy-VnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

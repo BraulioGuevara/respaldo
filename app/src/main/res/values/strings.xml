@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TimeFlex</string>
+
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    
+    <string name="op_inicio">Inicio</string>
+    <string name="op_apps">Apps</string>
+    <string name="op_calendario">Calendario</string>
+    <string name="op_notas">Notas</string>
+
+    <string name="op_perfil">Perfil</string>
+    <string name="op_cerrar_sesion">Cerrar Sesión</string>
+
+    <string name="txt_bienvenida">Bienvenido(a)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
